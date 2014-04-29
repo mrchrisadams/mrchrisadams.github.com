@@ -1,1 +1,3 @@
-title: 'This would appear is Jekyll was processing this site'
+name: Your New Jekyll Site
+markdown: redcarpet
+pygments: true
